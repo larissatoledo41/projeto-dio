@@ -20,32 +20,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# # Guia Prático: Modalidades de Arrecadação no MN CO 109
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse ebook de 14 páginas mostra, de forma simnples, as modalidades de arreacadação descritas no MN CO 109.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+    IA Generativa ChatCAIXA para roteirização;
+    IA Generativa Leonardo AI para criar a arte visual do e-book;
+    Ferramenta Poer Point para edição.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatCAIXA" para revisar minha pesquisa sobre o MN CO 109 e as modalidades de arrecadação, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para referido e-book. Para concluir, a montagem final foi feita no Poer point, por ser uma ferramenta acessível para edição de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo simples e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento de assuntos árduos.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi muito importante "colcoar a mão na massa" para além das video aulas do Bootcamp.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
